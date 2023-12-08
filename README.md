@@ -1,5 +1,6 @@
 # app-dev
 My first repository
+# Sydney Rolfe D. Delacion
 # My Favorites Series and Movies
 
 **These are my 3 favorite series and movies**
